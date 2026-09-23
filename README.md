@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manvendra-pratap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/manvendra-pratap-834995299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pratapmanvendra0209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Dehradun,_India-222?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
@@ -39,4 +39,4 @@
 
 ### 📫 Reach me
 
-Open to **security internships** and collaboration on blue-team / detection tooling. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/manvendra-pratap) or [email](mailto:pratapmanvendra0209@gmail.com).
+Open to **security internships** and collaboration on blue-team / detection tooling. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/manvendra-pratap-834995299/) or [email](mailto:pratapmanvendra0209@gmail.com).
